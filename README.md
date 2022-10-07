@@ -1,4 +1,6 @@
 # ExClaim
+THESIS : https://vtechworks.lib.vt.edu/handle/10919/110790
+
 This dataset is from the paper **ExClaim: Explainable Neural Claim Verification Using Rationalization**.
 
 The datasets are all in Python Pickle format.
