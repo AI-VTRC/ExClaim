@@ -39,6 +39,7 @@ If you use this dataset for your research, please cite our paper:
 @article{ExClaim,
   title={ExClaim: Explainable Neural Claim Verification Using Rationalization},
   author={Gurrapu, Sai and Huang, Lifu and Batarseh, Feras},
-  year={2022}
+  year={2022},
+  publisher={IEEE Software Technology Conference (STC)}
 }
 ```
